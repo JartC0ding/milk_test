@@ -1,0 +1,2 @@
+module-name: git_pkg
+ignore-file: readme.md
