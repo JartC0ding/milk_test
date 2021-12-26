@@ -1,2 +1,2 @@
-module-name: git_pkg
+package-name: git_pkg
 ignore-file: readme.md
