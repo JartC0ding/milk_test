@@ -1,2 +1,3 @@
 package-name: git_pkg
 ignore-file: readme.md
+entry: test.milk
